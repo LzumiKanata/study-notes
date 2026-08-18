@@ -14,6 +14,7 @@
 | 龙之九子 | 囚牛、狴犴 |
 | 宋 | 宋徽宗对北宋艺术的影响 |
 | 曼波的人机之路 | Python 入门、调试笔记 |
+| AI 项目探索 | GitHub 项目点评（train-llm-from-scratch / TREK / OpenToonz / artificial-life 等） |
 
 ## 说明
 
